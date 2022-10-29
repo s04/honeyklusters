@@ -1,4 +1,4 @@
-# Honeypot setup
+# Honeyklusters
 
 ## Setup (Kind + Cilium)
 
